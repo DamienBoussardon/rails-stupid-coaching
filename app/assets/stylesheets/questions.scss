@@ -1,0 +1,26 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.ask_answer{
+  background-color: #fffee0;
+  padding: 10px 30px;
+  border-left: 4px solid rgb(150, 150, 150);
+}
+.ask{
+  text-decoration: none;
+  font-weight: bold;
+}
+.answer{
+  padding-left: 30px;
+}
+input[type="text"]{
+  height: 30px;
+  width: 400px;
+}
+input[type="submit"]{
+  height: 30px;
+  width: 40px;
+  background-color: blue;
+  border: none;
+}
+
